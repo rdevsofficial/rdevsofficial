@@ -1,7 +1,7 @@
 - 👋 We are @rdevsofficial
->We are a team of junior developers.
+#We are a team of junior developers.
 
->Who we are?
+#Who we are?
 
 Rolando Zarate.
 
