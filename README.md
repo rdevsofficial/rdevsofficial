@@ -15,7 +15,7 @@ https://rolando-zarate.github.io
 
 >Fernando Jelvez.
 
-https://github.com/Fernando-Zarate
+https://github.com/Fernando-Jelvez
 
 >Secondary Leader of RDevs
 
